@@ -2,7 +2,8 @@
   "name": "PâturMap — Parcs à Brebis",
   "short_name": "PâturMap",
   "description": "Gérez vos parcs à brebis sur carte, même hors connexion",
-  "start_url": "./index.html",
+  "start_url": "/BERGERIE/",
+  "scope": "/BERGERIE/"
   "display": "standalone",
   "background_color": "#3d2b1f",
   "theme_color": "#3d2b1f",
